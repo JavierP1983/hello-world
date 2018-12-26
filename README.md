@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Practicing how to use github!!
+I just started learning Javascript and I am enjoying it.
